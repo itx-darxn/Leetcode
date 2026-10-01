@@ -9,27 +9,26 @@ class Solution {
                 if(!stack.isEmpty()){
                     stack.pop();
                 }
-            }}
-            Stack<Character> stack2=new Stack<>();
-            for(char d:t.toCharArray()){
-                if(d!='#'){
-                    stack2.push(d);
+        }
+        }
+        Stack<Character> stack2=new Stack<>();
+        for(char d:t.toCharArray()){
+            if(d!='#'){
+                stack2.push(d);
+            }else{
+                if(!stack2.isEmpty()){
+                    stack2.pop();
                 }
-                else{
-                    if(!stack2.isEmpty()){
-                        stack2.pop();
-                    }
-                }}
-                while(!stack.isEmpty()&&!stack2.isEmpty()){
-                    char c=stack.pop();
-                    char d=stack2.pop();
-                    if(c!=d){
-                        return false;
-                    }
-                }
-            
-        
-        return stack.isEmpty()&& stack2.isEmpty();
+            }
+        }
+        while(!stack.isEmpty()&&!stack2.isEmpty()){
+            char c=stack.pop();
+            char d=stack2.pop();
+            if(c!=d){
+                return false;
+            }
+        }
+        return stack.isEmpty()&&stack2.isEmpty();
         
     }
 }
