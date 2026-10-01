@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/darsan888/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/darsan888/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/darsan888/Leetcode/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/darsan888/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/darsan888/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Interactive
 |  |
@@ -121,11 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/darsan888/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/darsan888/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/darsan888/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0844-backspace-string-compare](https://github.com/darsan888/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/darsan888/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/darsan888/Leetcode/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/darsan888/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/darsan888/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/darsan888/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/darsan888/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/darsan888/Leetcode/tree/master/0155-min-stack) |
+| [0844-backspace-string-compare](https://github.com/darsan888/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Tree
 |  |
 | ------- |
